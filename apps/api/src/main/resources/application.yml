@@ -44,6 +44,6 @@ fhir:
     demo-email: mr@fhi.local
     demo-password: "ChangeMe123!"
   groq:
-    api-key: ${GROQ_API_KEY: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}
+    api-key: ${GROQ_API_KEY:}
     base-url: https://api.groq.com/openai/v1
     model: openai/gpt-oss-20b
